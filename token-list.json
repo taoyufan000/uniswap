@@ -1,0 +1,24 @@
+{
+    "name": "DEFI",
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+    "keywords": [
+        "defi",
+        "WETH"
+      ],
+      "timestamp": "2024-03-25T01:40:34.305Z",
+      "tokens": [
+        {
+        "chainId": 31337,
+        "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg"
+        }
+      ],
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 0
+      }
+  }
